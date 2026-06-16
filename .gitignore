@@ -46,3 +46,6 @@ plugins/*/node_modules/
 .env.*
 dokan-lite/
 dokan-pro/
+
+# Lokaler Navigations-Index (privat, nie committen)
+/_index/
