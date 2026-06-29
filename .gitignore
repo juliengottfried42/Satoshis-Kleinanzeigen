@@ -46,3 +46,9 @@ plugins/*/node_modules/
 .env.*
 dokan-lite/
 dokan-pro/
+
+# Lokaler Navigations-Index (privat, nie committen)
+/_index/
+
+# Knowledge-Graph (understand-anything, privat, nie committen)
+.understand-anything/
